@@ -12,6 +12,7 @@
 		D76C4F231EB0ED2B007F12D4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D76C4F211EB0ED2B007F12D4 /* Main.storyboard */; };
 		D76C4F251EB0ED2B007F12D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D76C4F241EB0ED2B007F12D4 /* Assets.xcassets */; };
 		D76C4F281EB0ED2B007F12D4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D76C4F261EB0ED2B007F12D4 /* LaunchScreen.storyboard */; };
+		D7C3C83D1EB24B230011BC92 /* debtor.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C3C83C1EB24B230011BC92 /* debtor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D76C4F241EB0ED2B007F12D4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D76C4F271EB0ED2B007F12D4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D76C4F291EB0ED2B007F12D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D7C3C83C1EB24B230011BC92 /* debtor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = debtor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				D76C4F1D1EB0ED2B007F12D4 /* AppDelegate.swift */,
 				D76C4F1F1EB0ED2B007F12D4 /* ViewController.swift */,
+				D7C3C83C1EB24B230011BC92 /* debtor.swift */,
 				D76C4F211EB0ED2B007F12D4 /* Main.storyboard */,
 				D76C4F241EB0ED2B007F12D4 /* Assets.xcassets */,
 				D76C4F261EB0ED2B007F12D4 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				D76C4F201EB0ED2B007F12D4 /* ViewController.swift in Sources */,
 				D76C4F1E1EB0ED2B007F12D4 /* AppDelegate.swift in Sources */,
+				D7C3C83D1EB24B230011BC92 /* debtor.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -304,6 +308,7 @@
 				D76C4F2E1EB0ED2B007F12D4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
