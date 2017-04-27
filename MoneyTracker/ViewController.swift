@@ -12,6 +12,7 @@ class ViewController: UIViewController {
    
     var kodeKatz = true
     var int = 8
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
