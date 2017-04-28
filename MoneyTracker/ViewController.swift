@@ -9,9 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-   
-    var kodeKatz = true
-    var int = 8
+    var Information = [Tracker]()
     
     override func viewDidLoad() {
         super.viewDidLoad()
