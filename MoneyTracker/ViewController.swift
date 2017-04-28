@@ -9,6 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    @IBOutlet weak var tableView: UITableView!
+    
     var information = [Tracker]()
     
     override func viewDidLoad() {
