@@ -8,12 +8,14 @@
 
 import Foundation
 
-class tracker {
+class Tracker {
     var name: String!
     var moneyOwed: Float!
+    var date: String!
 
     init (){
         name = ""
         moneyOwed = 0.0
+        date = "1/1/17"
     }
 }
