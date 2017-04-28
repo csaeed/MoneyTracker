@@ -9,6 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
+    @IBOutlet weak var tabelView: UITableView!
    
     var kodeKatz = true
     var int = 8
