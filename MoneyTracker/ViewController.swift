@@ -9,7 +9,6 @@
 import UIKit
 
 class ViewController: UIViewController {
-    var Information = [Tracker]()
     
     override func viewDidLoad() {
         super.viewDidLoad()
