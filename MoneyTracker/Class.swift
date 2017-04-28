@@ -7,3 +7,13 @@
 //
 
 import Foundation
+
+class tracker {
+    var name: String!
+    var moneyOwed: Float!
+
+    init (){
+        name = ""
+        moneyOwed = 0.0
+    }
+}
